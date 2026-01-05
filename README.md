@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Simple Logo]([https://simplelang.dev/logo.png](https://i.postimg.cc/ZRYGvqJj/de301fe1-bb84-47d9-8388-4876c92f18c3.jpg))
+![Simple Logo]([https://i.postimg.cc/ZRYGvqJj/de301fe1-bb84-47d9-8388-4876c92f18c3.jpg])
 
 **A modern, easy-to-learn backend programming language**
 
